@@ -8,13 +8,12 @@ In this document we are going to show Extraction, transformation and Loading pro
 Technical Design:
 
 1.	ETL Architecture:
- ![image](https://user-images.githubusercontent.com/105856868/205929248-b923a9b8-0419-4e17-9c24-5855d281f00a.png)
-
-
+ 
+ 	![image](https://user-images.githubusercontent.com/105856868/205929248-b923a9b8-0419-4e17-9c24-5855d281f00a.png)
 		Fig.: ETL Process Architecture.
 a.	Step 1: Extract
 The data can be extracted from different sources, in our Assessment we are having (.csv) data exported from Ireland’s Open Data Portal.
- ![image](https://user-images.githubusercontent.com/105856868/205929324-044c6071-eebb-425f-a248-3da190694c88.png)
+ 	![image](https://user-images.githubusercontent.com/105856868/205929324-044c6071-eebb-425f-a248-3da190694c88.png)
 
 We have total Rows: 38556 and Columns: 11.
 
@@ -82,12 +81,12 @@ Reflection on learning:
 
 
 Azure Virtual machine instance:
- ![image](https://user-images.githubusercontent.com/105856868/205929460-817ffa54-f555-4ce7-8d0b-a1d1cbe1afed.png)
+ 	![image](https://user-images.githubusercontent.com/105856868/205929460-817ffa54-f555-4ce7-8d0b-a1d1cbe1afed.png)
 
 
 
 Security port in Azure portal:
- ![image](https://user-images.githubusercontent.com/105856868/205929492-07074d25-80c6-48b8-834c-285bd36ce747.png)
+ 	![image](https://user-images.githubusercontent.com/105856868/205929492-07074d25-80c6-48b8-834c-285bd36ce747.png)
 
 
 
@@ -99,7 +98,7 @@ Security port in Azure portal:
 
 Azure Data studio:
  
-![image](https://user-images.githubusercontent.com/105856868/205929540-b95511b9-64fa-49f9-9e48-dcc621811ed3.png)
+	![image](https://user-images.githubusercontent.com/105856868/205929540-b95511b9-64fa-49f9-9e48-dcc621811ed3.png)
 
 
 Reference:
