@@ -94,7 +94,6 @@ Security port in Azure portal:
 
 
 Azure Data studio:
- 
 	![image](https://user-images.githubusercontent.com/105856868/205929540-b95511b9-64fa-49f9-9e48-dcc621811ed3.png)
 
 
