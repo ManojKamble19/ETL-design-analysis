@@ -10,7 +10,7 @@ Technical Design:
 1.	ETL Architecture:
  
  	![image](https://user-images.githubusercontent.com/105856868/205929248-b923a9b8-0419-4e17-9c24-5855d281f00a.png)
-		Fig.: ETL Process Architecture.
+	Fig.: ETL Process Architecture.
 
 a.	Step 1: Extract
 The data can be extracted from different sources, in our Assessment we are having (.csv) data exported from Ireland’s Open Data Portal.
