@@ -14,7 +14,8 @@ Technical Design:
 
 a.	Step 1: Extract
 The data can be extracted from different sources, in our Assessment we are having (.csv) data exported from Ireland’s Open Data Portal.
- 	![image](https://user-images.githubusercontent.com/105856868/205929324-044c6071-eebb-425f-a248-3da190694c88.png)
+ 	
+![image](https://user-images.githubusercontent.com/105856868/205929324-044c6071-eebb-425f-a248-3da190694c88.png)
 
 We have total Rows: 38556 and Columns: 11.
 
